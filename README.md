@@ -112,6 +112,7 @@ Short version: the upside is speed, consistency, and domain coverage. The cost i
 - [CAD Transforms](https://github.com/s-leger/blender_cad_transforms) 🔓 — CAD-like precision move, rotate, and scale tools.
 - [CAD Sketcher](https://github.com/hlorus/CAD_Sketcher) 🔓 — CAD-like precision sketching and constraints inside Blender (also used in AEC/Engineering stacks).
 - [Simple Deform Helper](https://github.com/AIGODLIKE/simple_deform_helper) 🔓 — Visualize and interactively control Blender's Simple Deform modifier (GPL-3.0-or-later).
+- [Blender General Toolbox](https://github.com/registerqd/Blender-General-Toolbox) 🔓 — Mesh repair and boolean self-healing toolkit for AI-generated models: welds cracks instead of filling them (avoids sliver-fan patches), adaptive tri/quad hole fill, boolean retry chain with co-planar jitter, and loop-slide-safe bevel (Blender 3.0+, MIT).
 
 ### Sculpting
 
